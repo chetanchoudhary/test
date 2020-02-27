@@ -1,0 +1,26 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+
+[packages]
+paho-mqtt = "*"
+Flask = "*"
+Flask-RESTful = "*"
+Flask-SQLAlchemy = "*"
+flask-jwt-extended = "*"
+flask-cors = "*"
+flask-uploads = "*"
+marshmallow = "*"
+flask-marshmallow = "*"
+marshmallow-sqlalchemy = "*"
+awsiotpythonsdk = "*"
+pathlib = "*"
+pysocks = "*"
+
+[requires]
+python_version = "3.7"
