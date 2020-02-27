@@ -1,4 +1,4 @@
-static/
-temp/
-__pycache__/
-.vscode/
+static/*
+temp/*
+__pycache__/*
+.vscode/* 
